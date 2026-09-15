@@ -1,0 +1,5 @@
+{
+  "name": "sohba Android APK workspace",
+  "user": "ubuntu",
+  "install": "bash .cursor/install.sh"
+}
